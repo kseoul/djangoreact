@@ -1,0 +1,17 @@
+{
+    "python.pythonPath": "C:\\Users\\J9857007\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+    "team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.venvPath": "C:\\Users\\J9857007\\AppData\\Local\\Continuum\\anaconda3\\Scripts\\activate.bat",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleArgs": [
+        "--ignore=E501"
+    ],
+    "python.linting.enabled": true
+}
